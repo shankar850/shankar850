@@ -1,21 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shankar Madiwal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+ <h1 align="center">👋 Hi,I'm Shankar Madiwal</h1>
+- 👀 I’m interested in creating better world with my code
+- 🌱 I’m currently learning Javascript
+- 📫 ping me at shankarmadiwal166@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankar850&label=Profile%20views&color=0e75b6&style=flat" alt="shankar850" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankar850" alt="shankar850" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **SOlCRM**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shankar850?tab=repositories](https://github.com/shankar850?tab=repositories)
-
-- 💬 Ask me about **C#, ASP.NET,MVC**
-
-- 📫 How to reach me **shankarmadiwal166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
