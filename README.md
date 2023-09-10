@@ -1,6 +1,6 @@
- <h1 align="center">👋 Hi,I'm Shankar Madiwal</h1>
-- 👀 I’m interested in creating better world with my code
-- 🌱 I’m currently learning Javascript
+ <h1 align="center">👋 Hi,I'm Shankar Madiwal</h1> </br>
+- 👀 I’m interested in creating better world with my code </br>
+- 🌱 I’m currently learning Javascript </br>
 - 📫 ping me at shankarmadiwal166@gmail.com
 
 
